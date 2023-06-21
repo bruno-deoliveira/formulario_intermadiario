@@ -8,7 +8,7 @@
 </p>
 
 ## 💻 Projeto
-Desafio 03 do modulo Avançado no HTML e CSS - Explore Rocketseat
+Desafio 03, Formulário Intermadiário do modulo Avançado no HTML e CSS - Explore Rocketseat
 
 Nesse desafio, foi recriado uma aplicalção com formulario, validações e customizações, a partir de um layout pronto no Figma, para fortalecer alguns conceitos aprendidos:
 - Trabalho com inputs no HTML;
