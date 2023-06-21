@@ -1,6 +1,6 @@
 # formulario_intermadiario
 
-<h1 align="center"> 📄 Formulário Intermadiário </h1>
+<h1 align="center"> 📄 Formulário Intermediário </h1>
 <h4 align="center"> Status: 🚀 Finished </h4>
 
 <p align="center">
@@ -8,9 +8,9 @@
 </p>
 
 ## 💻 Projeto
-Desafio 03, Formulário Intermadiário do modulo Avançado no HTML e CSS - Explore Rocketseat
+Desafio: Formulário Intermadiário do modulo Avançado no HTML e CSS - Explore Rocketseat
 
-Nesse desafio, foi recriado uma aplicalção com formulario, validações e customizações, a partir de um layout pronto no Figma, para fortalecer alguns conceitos aprendidos:
+Nesse desafio, foi recriado uma aplicalção com formulário, validações e customizações, a partir de um layout pronto no Figma, para fortalecer alguns conceitos aprendidos:
 - Trabalho com inputs no HTML;
 - Trabalho com pseudo-elements no CSS;
 - Validação dos campos de formulários;
